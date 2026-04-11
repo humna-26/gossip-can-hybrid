@@ -1,0 +1,60 @@
+# Build artifacts
+build/
+Debug/
+Release/
+*.o
+*.exe
+*.out
+*.a
+*.so
+*.dylib
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Claude Code folder (DO NOT PUSH)
+.claude/
+
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.cproject
+.settings/
+*.sublime-workspace
+*.sublime-project
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+.Spotlight-V100
+.Trashes
+
+# Visual Studio
+*.sln
+*.vcxproj
+*.vcxproj.filters
+.vs/
+
+# Misc
+*.log
+*.tmp
+.env
+node_modules/
