@@ -209,7 +209,6 @@ gossip-can-hybrid/
 ## Author
 
 **Humna** — CS-432 Student, SEECS NUST  
-Solo project (group size: 1)
 
 ## References
 
